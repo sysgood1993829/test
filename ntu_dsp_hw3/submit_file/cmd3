@@ -1,0 +1,11 @@
+./mydisambig -text ../testdata/1.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/1.txt
+./mydisambig -text ../testdata/2.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/2.txt
+./mydisambig -text ../testdata/3.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/3.txt
+./mydisambig -text ../testdata/4.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/4.txt
+./mydisambig -text ../testdata/5.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/5.txt
+./mydisambig -text ../testdata/6.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/6.txt
+./mydisambig -text ../testdata/7.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/7.txt
+./mydisambig -text ../testdata/8.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/8.txt
+./mydisambig -text ../testdata/9.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/9.txt
+./mydisambig -text ../testdata/10.txt -map ZhuYin-Big5.map -lm bigram.lm -order 3 > ./result3/10.txt
+
