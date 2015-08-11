@@ -18,5 +18,6 @@ int main() {
 	cin >> n2;
 	cout << "Their sum is: "<<n1+n2<<endl;;
 	cout<<"^____^"<<endl;
+	cout<<"gg...."<<endl;
 	return 0;
 }
