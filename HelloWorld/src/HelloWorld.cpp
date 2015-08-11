@@ -16,6 +16,7 @@ int main() {
 	cout << "Please enter two number:"<<endl;
 	cin >> n1;
 	cin >> n2;
-	cout << "Their sum is: "<<n1+n2;
+	cout << "Their sum is: "<<n1+n2<<endl;;
+	cout<<"^____^"<<endl;
 	return 0;
 }
