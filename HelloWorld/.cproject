@@ -30,6 +30,9 @@
 							</tool>
 							<tool id="org.eclipse.cdt.msvc.link.exe.debug.458734492" name="Linker (link)" superClass="org.eclipse.cdt.msvc.link.exe.debug">
 								<option id="org.eclipse.cdt.msvc.link.option.debug.1316858573" name="Generate Debug Info (/debug)" superClass="org.eclipse.cdt.msvc.link.option.debug" value="true" valueType="boolean"/>
+								<option id="org.eclipse.cdt.msvc.link.option.libraries.807147579" superClass="org.eclipse.cdt.msvc.link.option.libraries" valueType="libs">
+									<listOptionValue builtIn="false" srcPrefixMapping="" srcRootPath="" value="&quot;'C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Lib\Kernel32.Lib'&quot;"/>
+								</option>
 								<inputType id="org.eclipse.cdt.msvc.link.inputType.1421547910" superClass="org.eclipse.cdt.msvc.link.inputType"/>
 							</tool>
 							<tool id="org.eclipse.cdt.msvc.lib.1204740999" name="Library Manager (lib)" superClass="org.eclipse.cdt.msvc.lib"/>
